@@ -1,5 +1,5 @@
 def mostrar_menu():
-    print("\n---------- Menú Principal -----------")
+    print("\n--------- Menú Principal ----------")
     print("1. Agregar nuevos servicios fotograficos")
     print("2. Editar servicio fotografico")
     print("3. Eliminar registro fotografico")
@@ -22,5 +22,5 @@ def main():
         else:
             print("Opción no válida. Intente nuevamente.")
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
